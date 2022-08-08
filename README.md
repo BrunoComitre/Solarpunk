@@ -1,10 +1,14 @@
-# Kernels-Study
+<h1 align="center"> Kernels-Study </h1>
 
-This is my collection of scripts for Python, TensorFlow & Keras for my own learning & reference.
+> This is my collection of scripts for Python, TensorFlow & Keras for my own learning & reference
 
-Focus on Geoprocessing
+> Status: Development 🚧
 
-# data_study
+> Focus on Geoprocessing
+
+&nbsp;
+
+## data_study
 
 A Data Science repository to:
 - Kaggle's studies.
