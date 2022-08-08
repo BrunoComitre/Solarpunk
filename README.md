@@ -1,4 +1,6 @@
-<h1 align="center"> Kernels-Study </h1>
+<h1 align="center"> Solarpunk </h1>
+
+> Kernels-Study
 
 > This is my collection of scripts for Python, TensorFlow & Keras for my own learning & reference
 
