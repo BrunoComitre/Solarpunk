@@ -1,4 +1,4 @@
-<h1 align="center"> Solarpunk </h1>
+<h1 align="center"> Machine Learning a Data Science study repository</h1>
 
 > Kernels-Study
 
